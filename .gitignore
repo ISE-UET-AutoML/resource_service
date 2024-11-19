@@ -46,3 +46,4 @@ Thumbs.db
 # Tệp có thông tin nhạy cảm
 *.secret
 *.key
+run.sh
